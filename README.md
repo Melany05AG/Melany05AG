@@ -11,7 +11,7 @@
 
 ---
 
-## 👩‍💻 Sobre mí
+## Sobre mí
 
 Soy estudiante de **Ingeniería en Sistemas** en la Universidad Nacional de Costa Rica, apasionada por el desarrollo web y la creación de experiencias digitales funcionales y bien diseñadas.
 
@@ -19,7 +19,7 @@ Me gusta trabajar tanto en el frontend como en el backend, y disfruto de proyect
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 **Frontend**
 
@@ -47,17 +47,17 @@ Me gusta trabajar tanto en el frontend como en el backend, y disfruto de proyect
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [🎸 GNR Fan Club](https://github.com/Melany05AG/gnr-fanclub) | Sitio web de club de fans de Guns N' Roses con galería interactiva, registro de fans y reproductor YouTube | PHP · MySQL · Bootstrap |
-| [🃏 Klondike Solitaire](https://github.com/Melany05AG/klondike-solitaire) | Solitario Klondike jugable con drag & drop, cronómetro y arquitectura orientada a objetos | JavaScript ES6 · HTML5 · CSS3 |
-| [🚗 RentaCar](https://github.com/Melany05AG/rentacar-php-oracle) | Sistema de reservas de vehículos con roles admin/cliente, CRUD completo y reportes | PHP · Oracle DB · Bootstrap |
+| [GNR Fan Club](https://github.com/Melany05AG/gnr-fanclub) | Sitio web de club de fans de Guns N' Roses con galería interactiva, registro de fans y reproductor YouTube | PHP · MySQL · Bootstrap |
+| [Klondike Solitaire](https://github.com/Melany05AG/klondike-solitaire) | Solitario Klondike jugable con drag & drop, cronómetro y arquitectura orientada a objetos | JavaScript ES6 · HTML5 · CSS3 |
+| [RentaCar](https://github.com/Melany05AG/rentacar-php-oracle) | Sistema de reservas de vehículos con roles admin/cliente, CRUD completo y reportes | PHP · Oracle DB · Bootstrap |
 
 ---
 
-## 📊 Estadísticas
+##Estadísticas
 
 <div align="center">
 
@@ -72,6 +72,6 @@ Me gusta trabajar tanto en el frontend como en el backend, y disfruto de proyect
 
 *"La programación no es solo escribir código — es resolver problemas de forma creativa."*
 
-📍 Costa Rica · 🎓 Universidad Nacional
+Costa Rica · Universidad Nacional
 
 </div>
